@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Tan Hong Sheng — AI undergraduate, UTM, Kuala Lumpur">
+  <style>
+    .name  { font: 600 54px ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: 1.5px; fill: #1F2328; }
+    .role  { font: 500 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 3.6px; fill: #656D76; }
+    .rule  { stroke: #0F766E; stroke-width: 3; stroke-linecap: round; }
+    .base  { stroke: #D0D7DE; stroke-width: 1; }
+    .spark { fill: none; stroke: #0F766E; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+    .dot   { fill: #0F766E; }
+
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes pulse { 0%,100% { r: 4; opacity: 1; } 50% { r: 6; opacity: .55; } }
+
+    .rule  { stroke-dasharray: 100; stroke-dashoffset: 100; animation: draw .7s cubic-bezier(.22,1,.36,1) .15s forwards; }
+    .spark { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 2.4s cubic-bezier(.33,1,.68,1) .45s forwards; }
+    .base  { stroke-dasharray: 100; stroke-dashoffset: 100; animation: draw 1.1s ease-out .2s forwards; }
+    .name  { opacity: 0; animation: fade .7s ease-out .05s forwards; }
+    .role  { opacity: 0; animation: fade .7s ease-out .35s forwards; }
+    .dot   { opacity: 0; animation: fade .4s ease-out 2.7s forwards, pulse 3.2s ease-in-out 3.1s infinite; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .rule, .spark, .base, .name, .role, .dot {
+        animation: none !important; stroke-dashoffset: 0 !important; opacity: 1 !important;
+      }
+    }
+  </style>
+
+  <text class="name" x="60" y="118">TAN HONG SHENG</text>
+  <line class="rule" x1="60" y1="143" x2="243" y2="143" pathLength="100"/>
+  <text class="role" x="62" y="180">AI UNDERGRADUATE · UTM · KUALA LUMPUR</text>
+
+  <line class="base" x1="660" y1="212" x2="1140" y2="212" pathLength="100"/>
+  <polyline class="spark" pathLength="1000"
+    points="660,196 700,178 740,186 780,150 820,160 860,120 900,134 940,104 980,118 1020,86 1060,96 1100,64"/>
+  <circle class="dot" cx="1100" cy="64" r="4"/>
+</svg>
