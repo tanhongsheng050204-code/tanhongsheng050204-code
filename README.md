@@ -50,7 +50,7 @@ class TanHongSheng:
 
 ### 🛠️ Stack
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=openjdk&logoColor=ED8B00" />
 <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=F7DF1E" />
@@ -64,25 +64,29 @@ class TanHongSheng:
 
 ### 📈 GitHub
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanhongsheng050204-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanhongsheng050204-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanhongsheng050204-code&theme=tokyonight&hide_border=true" alt="Streak" width="100%"/>
+</p>
 
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<p align="center">
+<img width="100%" src="https://raw.githubusercontent.com/tanhongsheng050204-code/tanhongsheng050204-code/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 <br/><br/>
 
 ### 📬 Reach me
 
-<p>
+<p align="center">
 <a href="mailto:tanhongsheng050204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/tanhongsheng050204-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </p>
 
+<p align="center">
 <sub>Targeting Grab, Intel Penang, Infineon, Axiata — always open to talk fintech, agents, or Malaysian AI.</sub>
-
-</div>
+</p>
