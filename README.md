@@ -15,44 +15,55 @@ has to ask.
 
 #### NOW
 
-**E-invoicing agent** · MyInvois / LHDN
+**[DuitDuit](https://github.com/tanhongsheng050204-code/2026-SHENZHEN-FINTECHATHON-INTERNATIONAL-TRACK)** · Shenzhen FinTechathon 2026 · International AI Track  
+The e-invoicing agent, grown into a finance back office for SMEs — 90-day cash-flow
+forecasting, bank reconciliation, receivables chasing and financing matching, with a
+person approving every action · [live site](https://duitduit-umber.vercel.app/)
 
-The next build of FinBrain OS — tokenised PII architecture, multilingual
-receivables chasing, payment-behaviour scoring, and 13-week cash-flow
-forecasting.
+**[Khabar](https://github.com/tanhongsheng050204-code/KHABAR-HEALTHCARE)** · AI aftercare for Malaysian clinics · solo build  
+Patients understand their treatment in BM, 中文 or தமிழ், and the clinic sees who is
+slipping before they end up back in the queue · [live site](https://khabar-landing-six.vercel.app)
 
 #### SELECTED
 
 **[FinBrain OS](https://github.com/tanhongsheng050204-code/FinBrain_1st_Runner_Up_APU_FinTech_Hackathon_2026)** · APU FinTech Hackathon 2026 · 1st runner-up  
 Privacy-first customer intelligence for Malaysian MSMEs · [live site](https://finbrainos.vercel.app/)
 
-**[PaceTown](https://github.com/tanhongsheng050204-code/PaceTown)** · Stress and workload manager  
+**[PaceTown](https://github.com/tanhongsheng050204-code/PaceTown_Most_Innovative_Idea_Award_CodeNection_2026)** · CodeNection 2026 · Most Innovative Idea Award  
 A pixel-art game that turns a real university week into a readable campus town · [live site](https://pacetown.vercel.app/)
+
+**[Laluan](https://github.com/tanhongsheng050204-code/XMUM-HACKATHON)** · XMUM Hackathon 2026 · Future-Ready Workforce  
+A career GPS for the AI era — explainable role matching, AI-adoption scenarios and
+cited reskilling pathways · [live site](https://laluan-psi.vercel.app)
 
 #### TOOLKIT
 
-Python · Java · JavaScript · PHP · MySQL · HTML · CSS
+Python · TypeScript · Java · React · FastAPI · PostgreSQL / Supabase · PHP · MySQL
 
 ---
 
 <details>
-<summary><b>How the agent works</b></summary>
+<summary><b>How DuitDuit works</b></summary>
 
 <br/>
 
-**Tokenised PII architecture.** Customer identifiers are tokenised rather than
-stored raw, which keeps the door open for a cash-flow credit scoring layer later
-without re-architecting the data model.
+**Tokenised PII, before any model sees it.** Names, amounts, bank accounts and
+phone numbers are tokenised and encrypted on the way in — from email, Telegram,
+bank exports and LHDN e-invoices alike — so the AI works on the business, not the
+people in it.
 
-**Autonomous multilingual chasing.** Receivables follow-ups go out in the
-language the customer actually replies in — the reason a Malaysian SME's
-collections stall is rarely that nobody sent a reminder.
+**Agents propose, people decide.** A supervisor routes each question to the agents
+it needs; anything that changes records or leaves the company lands in a review
+inbox. Payments need two different people to approve, and run only in a simulated
+bank.
 
-**Behaviour scoring into forecasting.** Payment-behaviour scores feed a 13-week
-cash-flow forecast, so the two halves close into a single loop rather than
-sitting as separate dashboards.
+**Chasing that closes the loop.** Receivables are ranked by amount × days late and
+the reminders drafted in English, Bahasa Malaysia or Chinese; collections feed the
+90-day forecast, which flags a cash gap weeks before it lands.
 
-**PDPA Amendment 2024 compliance**, treated as a feature rather than a footnote.
+**Verifiable by a lender.** Every disclosure and decision goes into a hash-chained
+audit log, so the result is a record a bank can check — PDPA Amendment 2024
+compliance treated as a feature rather than a footnote.
 
 </details>
 
@@ -66,7 +77,7 @@ The e-invoicing mandate inverted that for a lot of owners who never asked to
 become finance departments.
 
 Competitions are where I test ideas fast, coursework is where I sharpen the
-maths underneath them, and the e-invoicing agent is where they both land.
+maths underneath them, and DuitDuit is where they both land.
 
 </details>
 
