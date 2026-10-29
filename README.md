@@ -1,93 +1,74 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanhongsheng050204-code/tanhongsheng050204-code/main/.github/assets/hero-dark.svg">
-  <img src="https://raw.githubusercontent.com/tanhongsheng050204-code/tanhongsheng050204-code/main/.github/assets/hero-light.svg" alt="Tan Hong Sheng — AI undergraduate, UTM, Kuala Lumpur" width="100%">
-</picture>
+# Hi there, I'm Hong Sheng! 👋 🇲🇾
 
-I'm an AI undergraduate at UTM building software for the least glamorous problem
-I could find: getting Malaysian SMEs paid on time.
-
-Malaysia's e-invoicing mandate turned every small business owner into a part-time
-compliance officer. I'm building the agent that takes the job back — chasing
-payments, reading customer behaviour, and forecasting cash flow before the owner
-has to ask.
+I'm an **Artificial Intelligence** undergraduate at **Universiti Teknologi Malaysia (UTM)**, building software for the least glamorous problem I could find: getting Malaysian SMEs paid on time. Competitions are where I test ideas fast, and coursework is where I sharpen the maths underneath them.
 
 ---
 
-#### NOW
+### 🚀 Quick Stats
+![Visitor Count](https://komarev.com/ghpvc/?username=tanhongsheng050204-code&color=blue&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/tanhongsheng050204-code?style=social)
 
-**[DuitDuit](https://github.com/tanhongsheng050204-code/2026-SHENZHEN-FINTECHATHON-INTERNATIONAL-TRACK)** · Shenzhen FinTechathon 2026 · International AI Track  
-The e-invoicing agent, grown into a finance back office for SMEs — 90-day cash-flow
-forecasting, bank reconciliation, receivables chasing and financing matching, with a
-person approving every action · [live site](https://duitduit-umber.vercel.app/)
-
-**[Khabar](https://github.com/tanhongsheng050204-code/KHABAR-HEALTHCARE)** · AI aftercare for Malaysian clinics · solo build  
-Patients understand their treatment in BM, 中文 or தமிழ், and the clinic sees who is
-slipping before they end up back in the queue · [live site](https://khabar-landing-six.vercel.app)
-
-#### SELECTED
-
-**[FinBrain OS](https://github.com/tanhongsheng050204-code/FinBrain_1st_Runner_Up_APU_FinTech_Hackathon_2026)** · APU FinTech Hackathon 2026 · 1st runner-up  
-Privacy-first customer intelligence for Malaysian MSMEs · [live site](https://finbrainos.vercel.app/)
-
-**[PaceTown](https://github.com/tanhongsheng050204-code/PaceTown_Most_Innovative_Idea_Award_CodeNection_2026)** · CodeNection 2026 · Most Innovative Idea Award  
-A pixel-art game that turns a real university week into a readable campus town · [live site](https://pacetown.vercel.app/)
-
-**[Laluan](https://github.com/tanhongsheng050204-code/XMUM-HACKATHON)** · XMUM Hackathon 2026 · Future-Ready Workforce  
-A career GPS for the AI era — explainable role matching, AI-adoption scenarios and
-cited reskilling pathways · [live site](https://laluan-psi.vercel.app)
-
-#### TOOLKIT
-
-Python · TypeScript · Java · React · FastAPI · PostgreSQL / Supabase · PHP · MySQL
+- 🎓 Currently studying: **Bachelor of Artificial Intelligence (Hons)**
+- 🏢 University: **Universiti Teknologi Malaysia (UTM)**
+- 📍 Location: **Kuala Lumpur, Malaysia**
+- 🔭 I'm currently working on: **DuitDuit**, an AI finance back office for SMEs, and **Khabar**, AI aftercare for clinics
+- 🏆 Hackathons: APU FinTech 2026 1st runner-up · CodeNection 2026 Most Innovative Idea
 
 ---
 
-<details>
-<summary><b>How DuitDuit works</b></summary>
+### 🛠️ Featured Projects
 
-<br/>
-
-**Tokenised PII, before any model sees it.** Names, amounts, bank accounts and
-phone numbers are tokenised and encrypted on the way in — from email, Telegram,
-bank exports and LHDN e-invoices alike — so the AI works on the business, not the
-people in it.
-
-**Agents propose, people decide.** A supervisor routes each question to the agents
-it needs; anything that changes records or leaves the company lands in a review
-inbox. Payments need two different people to approve, and run only in a simulated
-bank.
-
-**Chasing that closes the loop.** Receivables are ranked by amount × days late and
-the reminders drafted in English, Bahasa Malaysia or Chinese; collections feed the
-90-day forecast, which flags a cash gap weeks before it lands.
-
-**Verifiable by a lender.** Every disclosure and decision goes into a hash-chained
-audit log, so the result is a record a bank can check — PDPA Amendment 2024
-compliance treated as a feature rather than a footnote.
-
-</details>
-
-<details>
-<summary><b>Why this problem</b></summary>
-
-<br/>
-
-Compliance should be the easiest part of running a business, not the hardest.
-The e-invoicing mandate inverted that for a lot of owners who never asked to
-become finance departments.
-
-Competitions are where I test ideas fast, coursework is where I sharpen the
-maths underneath them, and DuitDuit is where they both land.
-
-</details>
+| Project | What it is | Links |
+| :--- | :--- | :---: |
+| 💸 **DuitDuit** | AI agents run an SME's finance back office: 90-day cash-flow forecasts, bank reconciliation, receivables chasing. A person approves every action. *Shenzhen FinTechathon 2026, International AI Track* | [Code](https://github.com/tanhongsheng050204-code/2026-SHENZHEN-FINTECHATHON-INTERNATIONAL-TRACK) · [Live](https://duitduit-umber.vercel.app/) |
+| 🩺 **Khabar** | AI aftercare for Malaysian clinics. Patients understand their treatment in BM, 中文 or தமிழ், and the clinic sees who is slipping. *Solo build* | [Code](https://github.com/tanhongsheng050204-code/KHABAR-HEALTHCARE) · [Live](https://khabar-landing-six.vercel.app) |
+| 🧠 **FinBrain OS** | Privacy-first customer intelligence for Malaysian MSMEs. *🥈 APU FinTech Hackathon 2026, 1st runner-up* | [Code](https://github.com/tanhongsheng050204-code/FinBrain_1st_Runner_Up_APU_FinTech_Hackathon_2026) · [Live](https://finbrainos.vercel.app/) |
+| 🏘️ **PaceTown** | A pixel-art game that turns a real university week into a readable campus town. *🏆 CodeNection 2026, Most Innovative Idea Award* | [Code](https://github.com/tanhongsheng050204-code/PaceTown_Most_Innovative_Idea_Award_CodeNection_2026) · [Live](https://pacetown.vercel.app/) |
+| 🧭 **Laluan** | A career GPS for the AI era: explainable role matching and cited reskilling pathways. *SDC Hackathon 2026 @ XMUM, team lead* | [Code](https://github.com/tanhongsheng050204-code/SDC-HACKATHON-2026-XMUM---Made-In-UTM) · [Live](https://laluan-psi.vercel.app) · [Video](https://www.youtube.com/watch?v=8IJ64e0ftos) |
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanhongsheng050204-code/tanhongsheng050204-code/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/tanhongsheng050204-code/tanhongsheng050204-code/output/github-contribution-grid-snake.svg" alt="Contribution graph" width="100%">
-</picture>
+### 💻 Tech Stack & Tools
+
+**Languages & Databases**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Platforms**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-[tanhongsheng050204@gmail.com](mailto:tanhongsheng050204@gmail.com) · [github.com/tanhongsheng050204-code](https://github.com/tanhongsheng050204-code)
+### 📊 GitHub Metrics
+
+| **Overall Stats** | **Top Languages** |
+| :---: | :---: |
+| ![Hong Sheng's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tanhongsheng050204-code&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanhongsheng050204-code&layout=compact&theme=radical) |
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://gitcard-studio.creativecode.com.co/api/streak?username=tanhongsheng050204-code&theme=tokyonight&locale=en)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://gitcard-studio.creativecode.com.co/api/trophies?username=tanhongsheng050204-code&theme=tokyonight&locale=en)
+
+---
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/tanhongsheng0204/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />](mailto:tanhongsheng050204@gmail.com)
+[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />](https://github.com/tanhongsheng050204-code)
+
+---
+*"Compliance should be the easiest part of running a business, not the hardest."* 🤖
